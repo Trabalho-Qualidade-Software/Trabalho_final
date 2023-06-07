@@ -1,11 +1,42 @@
 # Trabalho_final
 
+## Introdução
+
+> O trabalho visa a melhoria nos processo de comunicação entre o desenvolvedor e o cliente.
+
+## Objetivo
+
+### Objetivo Geral
+
+### Objetivo Específico
+
+## Desenvolvimento
+
+### Sistema Atual
+
+#### Dados
+
+##### Power BI
+
+##### Fluxograma de Negócios
+
+### Sistema Melhorado
+
+## Conclusão
+
+algum texto
+
+---
+
+ANTIGO
+
+---
+
 <details>
 
 <summary>Introdução</summary>
   
-  Texto
-
+  texto
 </details>
 
 <details>
@@ -16,16 +47,16 @@
   
   <details>
     <summary>Objetivo Geral</summary>
-    
+
     Texto
-    
+
   </details>
   
   <details>
     <summary>Objetivo Específicos</summary>
-    
+
     Texto
-    
+
   </details>
 
 </details>
@@ -36,15 +67,11 @@
   
   <details>
     <summary>Dados</summary>
-    
-    1. Power BI
-    
-    Texto
-    
-    2. Fluxograma de negócio
-    
-    Texto
-    
+
+1. Power BI
+
+2. Fluxograma de negócio
+
   </details>
 
 </details>
