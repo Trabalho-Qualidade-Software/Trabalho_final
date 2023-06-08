@@ -1,14 +1,53 @@
-# Trabalho_final
+# Trabalho final (Grupo 1)
+
+## Membros do Trabalho
+
+- Arthur Carneiro da Rocha Menezes UC19100325
+- Felipe Souza Marra UC? <!-- concertar aqui->
+- Gabriel Silva Carneiro UC19200914
+- Bruna Rosa Rodrigues UC19104410
+- Matheus Cordeiro dos Santos UC19102628
+- Melquisedeque Magalhães Sodré UC19201469
+
+---
+
+## Sumário
+
+- [Introdução](#introdução)
+
+- [Objetivo](#objetivo)
+
+  - [Objetivo Geral](#objetivo-geral)
+
+  - [Objetivo Específico](#objetivo-específico)
+
+- [Desenvolvimento](#desenvolvimento)
+
+  - [Sistema Atual](#sistema-atual)
+
+    - [Dados](#dados)
+
+      - [Power BI](#power-bi)
+
+      - [Fluxograma de Negócios](#fluxograma-de-negócios)
+
+  - [Sistema Melhorado](#sistema-melhorado)
+
+- [Conclusão](#conclusão)
+
+---
 
 ## Introdução
-
-> O trabalho visa a melhoria nos processo de comunicação entre o desenvolvedor e o cliente.
 
 ## Objetivo
 
 ### Objetivo Geral
 
+O trabalho visa a melhoria nos processo de comunicação entre o desenvolvedor e o cliente.
+
 ### Objetivo Específico
+
+Desenvolver um fluxo, com todos os softwares e características, para a comunicação entre o deselvolvedor e os clientes.
 
 ## Desenvolvimento
 
@@ -23,67 +62,3 @@
 ### Sistema Melhorado
 
 ## Conclusão
-
-algum texto
-
----
-
-ANTIGO
-
----
-
-<details>
-
-<summary>Introdução</summary>
-  
-  texto
-</details>
-
-<details>
-
-<summary>Objetivo</summary>
-  
-  Texto
-  
-  <details>
-    <summary>Objetivo Geral</summary>
-
-    Texto
-
-  </details>
-  
-  <details>
-    <summary>Objetivo Específicos</summary>
-
-    Texto
-
-  </details>
-
-</details>
-
-<details>
-
-<summary>Sistema atual</summary>
-  
-  <details>
-    <summary>Dados</summary>
-
-1. Power BI
-
-2. Fluxograma de negócio
-
-  </details>
-
-</details>
-
-<details>
-
-<summary>Sistema melhorado</summary>
-
-</details>
-
-<details>
-
-<summary>Conclusão</summary>
-
-</details>
