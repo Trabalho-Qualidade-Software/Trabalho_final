@@ -31,7 +31,7 @@
 
       - [Fluxograma de Negócios](#fluxograma-de-negócios)
 
-  - [Sistema Melhorado](#sistema-melhorado)
+  - [Proposta de Melhoria](#proposta-de-melhoria)
 
 - [Conclusão](#conclusão)
 
@@ -65,7 +65,7 @@ A comunicação é manual, como envios e-mail, sem um fluxo de comunicação pr�
 ##### Análise de Negócio
 O negócio consiste em desenvolvimento de software por encomenda, que vá trazer qualidade e resultado para o cliente.
 
-### Sistema Melhorado
+### Proposta de Melhoria
 O sistema melhorado é um sistema totalmente automatizado para comunicação do desenvolvedor e do cliente, criando um fluxo bem estruturado e de fácil entendimento.
 
 ## Conclusão
