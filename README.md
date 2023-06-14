@@ -1,9 +1,11 @@
+![Logotipo da Católica](logoCatolica.jpeg)
+
 # Trabalho final (Grupo 1)
 
 ## Membros do Trabalho
 
 - Arthur Carneiro da Rocha Menezes UC19100325
-- Felipe Souza Marra UC? <!-- concertar aqui->
+- Felipe Souza Marra UC20101381
 - Gabriel Silva Carneiro UC19200914
 - Bruna Rosa Rodrigues UC19104410
 - Matheus Cordeiro dos Santos UC19102628
