@@ -128,7 +128,7 @@ Supostamente quando houver a melhoria criada ela avançará para o nível 2, com
 ## Conclusão
 
 
-O trabalho visa melhorar a comunicação entre desenvolvedores freelancers e clientes, aprimorando os processos existentes. Isso resultará em colaboração mais eficiente, compreensão clara das necessidades do cliente, comunicação fluida e entrega de projetos satisfatórios. A melhoria na comunicação promoverá relacionamentos sólidos e bem-sucedidos, impulsionando a qualidade e a eficiência do trabalho.
+Em conclusão, o trabalho visa melhorar a comunicação entre desenvolvedores freelancers e clientes, aprimorando os processos existentes. Isso resultará em colaboração mais eficiente, compreensão clara das necessidades do cliente, comunicação fluida e entrega de projetos satisfatórios. A melhoria na comunicação promoverá relacionamentos sólidos e bem-sucedidos, impulsionando a qualidade e a eficiência do trabalho.
 
 ### Sprints
 
