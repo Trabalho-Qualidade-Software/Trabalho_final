@@ -76,6 +76,26 @@ A comunicação é manual, como envios e-mail, sem um fluxo de comunicação pr�
 
 #### Fluxograma de Negócios
 
+Neste tópicos seram descritos todos os fluxos atuais utilizado para comunicação entre Cliente e Desenvolvedor.
+
+Nesta imagem é mostrado como um Cliente que está utilizando o produto, definindo tópicos da conversa com o Desenvolvedor.
+![Definir Objetivo do Cliente](Dados_Atuais/Definir_Objetivo_Do_Cliente.png)
+
+Nesta imagem é mostrado uma comunicação online do Cliente com o Desenvolvedor.
+![Comunicação Cliente](Dados_Atuais/Comunicacao_Cliente.png)
+
+Nesta imagem é mostrado uma comunicação online do Cliente para gerar uma reunião presencial com o Desenvolvedor.
+![Comunicação Cliente Presencial](Dados_Atuais/Comunicacao_Cliente_Presencial.png)
+
+Nesta imagem é mostrado como um Desenvolvedor que desenvolve o produto, definindo tópicos da conversa com o Cliente(s).
+![Definir Objetivo do Desenvolvedor](Dados_Atuais/Definir_Objetivo_Do_Desenvolvedor.png)
+
+Nesta imagem é mostrado uma comunicação online do Desenvolvedor com o Cliente.
+![Comunicação Desenvolvedor](Dados_Atuais/Comunicacao_Desenvolvedor.png)
+
+Nesta imagem é mostrado uma comunicação online do Desenvolvedor para gerar uma reunião presencial com o Cliente.
+![Comunicação Desenvolvedor Presencial](Dados_Atuais/Comunicacao_Desenvolvedor_Presencial.png)
+
 ### Proposta de Melhoria
 
 O sistema melhorado é um sistema totalmente automatizado para comunicação do desenvolvedor e do cliente, criando um fluxo bem estruturado e de fácil entendimento.
