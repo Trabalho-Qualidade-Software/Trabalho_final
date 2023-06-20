@@ -25,6 +25,8 @@
 
 - [Desenvolvimento](#desenvolvimento)
 
+  - [Análise de Negócio](#análise-de-negócio)
+  
   - [Sistema Atual](#sistema-atual)
 
       - [Power BI Atual](#power-bi-atual)
@@ -36,13 +38,19 @@
       - [Power BI Melhoria](#power-bi-melhoria)
         
       - [Fluxograma de Melhoria](#fluxograma-de-melhoria)
+      
+  - [CMMI](#cmmi)
 
 - [Conclusão](#conclusão)
+
+  - [Sprints](#sprints)
 
 ---
 
 ## Introdução
 Este um projeto para trazer a melhoria de fluxos, buscando melhorar o processo, comunicação e toda a qualidade do projeto.
+
+---
 
 ## Objetivo
 
@@ -55,6 +63,8 @@ O trabalho visa a melhoria nos processo de comunicação entre o desenvolvedor e
 ### Objetivo Específico
 
 Desenvolver um fluxo, com todos os softwares e características, além de customizar o Software _`Sales Force`_ para a comunicação entre o deselvolvedor e os clientes.
+
+---
 
 ## Desenvolvimento
 
@@ -113,4 +123,11 @@ Supostamente quando houver a melhoria criada ela avançará para o nível 2, com
 - Quantativo;
 - Gerenciado.
 
+---
+
 ## Conclusão
+
+
+
+### Sprints
+
