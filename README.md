@@ -1,3 +1,5 @@
+![Logotipo da Católica](logoCatolica.jpeg)
+
 # Trabalho final (Grupo 1)
 
 ## Membros do Trabalho
@@ -25,13 +27,13 @@
 
   - [Sistema Atual](#sistema-atual)
 
-      - [Power BI](#power-bi-atual)
+      - [Power BI Atual](#power-bi-atual)
 
       - [Fluxograma de Negócios](#fluxograma-de-negócios)
 
   - [Proposta de Melhoria](#proposta-de-melhoria)
       
-      - [Power BI](#power-bi-melhoria)
+      - [Power BI Melhoria](#power-bi-melhoria)
         
       - [Fluxograma de Melhoria](#fluxograma-de-melhoria)
 
@@ -70,13 +72,17 @@ O negócio consiste em desenvolvimento de software por encomenda, que vá trazer
 O sistema atual se trata de um sistema de desenvolvimento de software, que têm como objetivo trazer melhoria á comunicação entre cliente e o desenvolvedor e todo levantamento inicial para o desenvolvimento dos softwares.
 A comunicação é manual, como envios e-mail, sem um fluxo de comunicação pré-definido.
 
-#### Power BI
+#### Power BI Atual
+
+#### Fluxograma de Negócios
 
 ### Proposta de Melhoria
 
 O sistema melhorado é um sistema totalmente automatizado para comunicação do desenvolvedor e do cliente, criando um fluxo bem estruturado e de fácil entendimento.
 
-#### Power BI
+#### Power BI Melhoria
+
+#### Fluxograma de Melhoria
 
 ### CMMI
 
