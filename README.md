@@ -2,6 +2,14 @@
 
 # Trabalho final (Grupo 1)
 
+---
+
+## Links
+
+**[Vídeo](https://clipchamp.com/watch/MVuB0Wuc7WH)**
+
+---
+
 ## Membros do Trabalho
 
 - Arthur Carneiro da Rocha Menezes UC19100325
