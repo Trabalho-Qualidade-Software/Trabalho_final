@@ -82,7 +82,7 @@ O negócio consiste em desenvolvimento de software por encomenda, que vá trazer
 O sistema atual se trata de um sistema de desenvolvimento de software, que têm como objetivo trazer melhoria á comunicação entre cliente e o desenvolvedor e todo levantamento inicial para o desenvolvimento dos softwares.
 A comunicação é manual, como envios e-mail, sem um fluxo de comunicação pré-definido.
 
-### Power BI 
+#### Power BI 
 ![painel do Power BI](powerBi.jpeg)
 
 #### Fluxograma de Negócios
