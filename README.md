@@ -64,6 +64,11 @@ O trabalho visa a melhoria nos processo de comunicação entre o desenvolvedor e
 
 Desenvolver um fluxo, com todos os softwares e características, além de customizar o Software _`Sales Force`_ para a comunicação entre o deselvolvedor e os clientes.
 
+- Desenvolver os fluxos atuais da comunicação;
+- Desenvolver os fluxos de comunicação;
+- Desenvolver documentação da comunicação;
+- Desenvolver dados sobre a qualidade da comunicação;
+- Desenvolver a análise da comunicação assertivas.
 ---
 
 ## Desenvolvimento
