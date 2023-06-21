@@ -62,7 +62,7 @@ O trabalho visa a melhoria nos processo de comunicação entre o desenvolvedor e
 
 ### Objetivo Específico
 
-Desenvolver um fluxo, com todos os softwares e características, além de customizar o Software _`Sales Force`_ para a comunicação entre o deselvolvedor e os clientes.
+Desenvolver um fluxo, com todos os softwares e características, além de customizar o Software _`Sales Force`_ para a comunicação entre o desenvolvedor e os clientes.
 
 - Desenvolver os fluxos atuais da comunicação;
 - Desenvolver os fluxos de comunicação;
