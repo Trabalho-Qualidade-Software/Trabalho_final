@@ -83,7 +83,7 @@ O sistema atual se trata de um sistema de desenvolvimento de software, que têm 
 A comunicação é manual, como envios e-mail, sem um fluxo de comunicação pré-definido.
 
 ### Power BI 
-![Logotipo da Católica](logoCatolica.jpeg)
+![painel do Power BI](powerBi.jpeg)
 
 #### Fluxograma de Negócios
 
@@ -139,3 +139,6 @@ Em conclusão, o trabalho visa melhorar a comunicação entre desenvolvedores fr
 
 ### Sprints
 
+![sprint 1 do fluxo de melhoria](sprint1.jpeg)
+![sprint 2 do fluxo de melhoria](sprint2.jpeg)
+![sprint 3 do fluxo de melhoria](sprint3.jpeg)
