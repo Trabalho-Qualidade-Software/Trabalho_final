@@ -112,6 +112,8 @@ Nesta imagem é mostrado uma comunicação online do Desenvolvedor para gerar um
 O sistema melhorado é um sistema totalmente automatizado para comunicação do desenvolvedor e do cliente, criando um fluxo bem estruturado e de fácil entendimento.
 
 #### Fluxograma de Melhoria
+![Fluxo Melhorado 1](fluxo-melhorado-1.jpeg)
+![Fluxo Melhorado 2](fluxo-melhorado-2.jpeg)
 
 ### CMMI
 
