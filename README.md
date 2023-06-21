@@ -123,16 +123,16 @@ O sistema melhorado é um sistema totalmente automatizado para comunicação do 
 ### CMMI
 
 Como dito que o sistema atual está no nível 1 no CMMI temos características como:
-- imprevisível.
-- reativa.
-- processos não definidos.
+- Imprevisível;
+- Reativa;
+- Processos não definidos.
 
 Supostamente quando houver a melhoria criada ela avançará para o nível 2, com as características:
 - Quantativo;
-- Gerenciado.
-- Planejamento
-- Realização.
-- Medição.
+- Gerenciado;
+- Planejamento;
+- Realização;
+- Medição;
 - Controle dos projetos.
 
 ---
