@@ -111,8 +111,6 @@ Nesta imagem é mostrado uma comunicação online do Desenvolvedor para gerar um
 
 O sistema melhorado é um sistema totalmente automatizado para comunicação do desenvolvedor e do cliente, criando um fluxo bem estruturado e de fácil entendimento.
 
-#### Power BI Melhoria
-
 #### Fluxograma de Melhoria
 
 ### CMMI
